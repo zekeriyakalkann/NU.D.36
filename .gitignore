@@ -1,0 +1,39 @@
+# Unity generated folders
+Unity/NU.D.36_Unity/[Ll]ibrary/
+Unity/NU.D.36_Unity/[Tt]emp/
+Unity/NU.D.36_Unity/[Oo]bj/
+Unity/NU.D.36_Unity/[Bb]uild/
+Unity/NU.D.36_Unity/[Bb]uilds/
+Unity/NU.D.36_Unity/[Ll]ogs/
+Unity/NU.D.36_Unity/[Mm]emoryCaptures/
+Unity/NU.D.36_Unity/[Uu]ser[Ss]ettings/
+
+# Unity generated IDE files
+Unity/NU.D.36_Unity/.vs/
+Unity/NU.D.36_Unity/.idea/
+Unity/NU.D.36_Unity/.gradle/
+Unity/NU.D.36_Unity/ExportedObj/
+
+# Auto-generated project/solution files
+Unity/NU.D.36_Unity/*.csproj
+Unity/NU.D.36_Unity/*.unityproj
+Unity/NU.D.36_Unity/*.sln
+Unity/NU.D.36_Unity/*.slnx
+Unity/NU.D.36_Unity/*.suo
+Unity/NU.D.36_Unity/*.tmp
+Unity/NU.D.36_Unity/*.user
+Unity/NU.D.36_Unity/*.userprefs
+
+# Build outputs
+Unity/NU.D.36_Unity/*.apk
+Unity/NU.D.36_Unity/*.aab
+Unity/NU.D.36_Unity/*.unitypackage
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Blender temporary backup files
+*.blend1
+*.blend2
