@@ -37,3 +37,34 @@ Desktop.ini
 # Blender temporary backup files
 *.blend1
 *.blend2
+
+# Unity generated folders - Rota02
+Unity/NU.D.36_Rota02/[Ll]ibrary/
+Unity/NU.D.36_Rota02/[Tt]emp/
+Unity/NU.D.36_Rota02/[Oo]bj/
+Unity/NU.D.36_Rota02/[Bb]uild/
+Unity/NU.D.36_Rota02/[Bb]uilds/
+Unity/NU.D.36_Rota02/[Ll]ogs/
+Unity/NU.D.36_Rota02/[Mm]emoryCaptures/
+Unity/NU.D.36_Rota02/[Uu]ser[Ss]ettings/
+
+# Unity generated IDE files - Rota02
+Unity/NU.D.36_Rota02/.vs/
+Unity/NU.D.36_Rota02/.idea/
+Unity/NU.D.36_Rota02/.gradle/
+Unity/NU.D.36_Rota02/ExportedObj/
+
+# Auto-generated project/solution files - Rota02
+Unity/NU.D.36_Rota02/*.csproj
+Unity/NU.D.36_Rota02/*.unityproj
+Unity/NU.D.36_Rota02/*.sln
+Unity/NU.D.36_Rota02/*.slnx
+Unity/NU.D.36_Rota02/*.suo
+Unity/NU.D.36_Rota02/*.tmp
+Unity/NU.D.36_Rota02/*.user
+Unity/NU.D.36_Rota02/*.userprefs
+
+# Build outputs - Rota02
+Unity/NU.D.36_Rota02/*.apk
+Unity/NU.D.36_Rota02/*.aab
+Unity/NU.D.36_Rota02/*.unitypackage
